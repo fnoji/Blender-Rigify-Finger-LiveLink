@@ -1,3 +1,5 @@
+[![YouTube](https://github.com/user-attachments/assets/39bcb81c-6a20-4e61-ad45-e69c2555e17f)](https://www.youtube.com/watch?v=-htmSRVacW8)
+
 # VMC to Rigify Finger Live Link
 
 A Blender addon that links VMC (Virtual Motion Capture) protocol bone rotations to Rigify rigs, with a focus on accurate finger tracking and granular control.
